@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaffaellM
 - 👀 I’m interested in Back And
 - 🌱 I’m currently learning  JavaScript
-- 💞️ I’m looking to  aprimorar meu conhecimento e me tornar um dev de refere !
+- 💞️ I’m looking aprimorar meu conhecimento e me tornar um dev referencia !
 - 📫 How to reach me https://www.instagram.com/raffaellmoraes/
 
 <!---
