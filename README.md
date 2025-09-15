@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @RaffaellM
-- 👀 I’m interested in Back And
-- 🌱 I’m currently learning  JavaScript
-- 💞️ I’m looking aprimorar meu conhecimento e me tornar um dev referencia !
-- 📫 How to reach me https://www.instagram.com/raffaellmoraes/
-
-<!---
-RaffaellM/RaffaellM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um engenheiro de software com paixão por construir soluções robustas e eficientes. Minha experiência abrange o desenvolvimento de back-end, com foco em Python, e a gestão de dados, utilizando SQL para projetar e otimizar bancos de dados. Com um forte entendimento de engenharia de software, busco criar sistemas escaláveis e de fácil manutenção, garantindo que a arquitetura do software esteja alinhada com as metas do negócio.
